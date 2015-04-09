@@ -1,0 +1,2 @@
+# rat-avenger
+pythonic code 
